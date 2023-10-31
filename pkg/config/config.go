@@ -12,7 +12,6 @@ type Config struct {
 
 func ParseConfig(configPath string) (*Config, error) {
 	byteValue, err := os.ReadFile(configPath)
-
 	if err != nil {
 		return nil, fmt.Errorf("error reading config file: %w", err)
 	}
