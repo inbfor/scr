@@ -12,7 +12,6 @@ linters:
     - exhaustruct
     - gci # конфликтует с другими линтерами
     - gomnd # todo по возможности избавиться от магических чисел, но он ругается вообще на все подряд
-    - musttag # todo падает
 
 linters-settings:
   varnamelen:
