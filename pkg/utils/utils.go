@@ -12,7 +12,7 @@ import (
 
 	"github.com/dsnet/compress/bzip2"
 
-	"ab_script/pkg/models"
+	"github.com/scr/abscript/pkg/models"
 )
 
 const (

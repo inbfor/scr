@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"ab_script/pkg/config"
-	"ab_script/pkg/models"
-	"ab_script/pkg/utils"
+	"github.com/scr/abscript/pkg/config"
+	"github.com/scr/abscript/pkg/models"
+	"github.com/scr/abscript/pkg/utils"
 )
 
 func main() {

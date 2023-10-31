@@ -1,5 +1,5 @@
-module ab_script
+module github.com/scr/abscript
 
-go 1.20
+go 1.21
 
 require github.com/dsnet/compress v0.0.1

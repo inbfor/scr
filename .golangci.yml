@@ -27,5 +27,5 @@ linters-settings:
       main:
         allow:
           - $gostd
-          - gitlab.wildberries.ru
+          - ab_script
           - github.com
